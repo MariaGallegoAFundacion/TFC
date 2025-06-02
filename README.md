@@ -1,4 +1,4 @@
-> .[!NOTE].
+> [!NOTE]
 > Los emoticonos presentes en este documento fueron extraídos del sitio web [https://emojikeyboard.top/es/.](https://emojikeyboard.top/es/)
 <h1 align="center"> 🏥​ UBF – Gestión de Unidades Básicas Funcionales 🩺​ </h1>#
 
