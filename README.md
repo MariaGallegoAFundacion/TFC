@@ -11,9 +11,8 @@
 ## 📑 Índice
 
 - [🏅 Insignias](#-insignias)
-- [📑 Índice](#índice)
-- [📝 Descripción del proyecto](#descripción-del-proyecto)
-- [📌 Estado del proyecto](#estado-del-proyecto)
+- [📝 Descripción del proyecto](#-descripción-del-proyecto)
+- [📌 Estado del proyecto](#-estado-del-proyecto)
 - [🎯 Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
 - [🔗 Acceso al proyecto](#acceso-al-proyecto)
 - [🧰 Tecnologías utilizadas](#tecnologías-utilizadas)
@@ -21,6 +20,7 @@
 - [👩‍💻 Personas-desarrolladores del proyecto](#personas-desarrolladores-del-proyecto)
 - [📄 Licencia](#licencia)
 - [🧩 Conclusión](#conclusión)
+
 
 
 ## 🏅 Insignias
@@ -33,3 +33,16 @@
   <a href="#"><img src="https://img.shields.io/badge/Estado-Terminado-success" alt="Estado"></a>
 </p>
 
+
+## 📝 Descripción del proyecto
+
+Aplicación web desarrollada en **Java con Spring Boot**, conectada a **Oracle SQL** y con vistas dinámicas construidas con **Thymeleaf**. Permite a los profesionales sanitarios de Castilla y León gestionar **Unidades Básicas Funcionales (UBF)**, asociarlas con **CIAS**, y vincular profesionales sanitarios titulares y sustitutos. Su objetivo principal es facilitar el trabajo administrativo y funcional del personal sanitario, gracias a que el proyecto forma parte de un sistema mayor destinado a la gestión centralizada de datos sanitarios.
+
+## 📌 Estado del proyecto
+
+🟡 **Estado:** 🚧Terminado pero pendiente de despliegue a producción🚧
+
+
+![Estado](https://img.shields.io/badge/Estado-En_espera_de_lanzamiento-yellow)
+
+> El código está finalizado y he realizado las pruebas de control correspondientes. Actualmente se encuentra en revisión, a la espera de aprobación para ser lanzado en el entorno de producción.
