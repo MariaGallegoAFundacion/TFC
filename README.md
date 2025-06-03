@@ -13,9 +13,8 @@
 - [🏅 Insignias](#-insignias)
 - [📝 Descripción del proyecto](#-descripción-del-proyecto)
 - [📌 Estado del proyecto](#-estado-del-proyecto)
-- [🎯 Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
-- [🔗 Acceso al proyecto](#acceso-al-proyecto)
-- [🧰 Tecnologías utilizadas](#tecnologías-utilizadas)
+- [🎯 Características de la aplicación](#-características-de-la-aplicación)
+- [🧰 Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [🤝 Personas contribuyentes](#personas-contribuyentes)
 - [👩‍💻 Personas-desarrolladores del proyecto](#personas-desarrolladores-del-proyecto)
 - [📄 Licencia](#licencia)
@@ -30,7 +29,6 @@
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring--Boot-3.x-brightgreen" alt="Spring Boot"></a>
   <a href="https://www.thymeleaf.org/"><img src="https://img.shields.io/badge/Thymeleaf-server--side--template-yellowgreen" alt="Thymeleaf"></a>
   <a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Database-Oracle-lightgrey" alt="Oracle SQL"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Estado-Terminado-success" alt="Estado"></a>
 </p>
 
 
@@ -46,3 +44,20 @@ Aplicación web desarrollada en **Java con Spring Boot**, conectada a **Oracle S
 ![Estado](https://img.shields.io/badge/Estado-En_espera_de_lanzamiento-yellow)
 
 > El código está finalizado y he realizado las pruebas de control correspondientes. Actualmente se encuentra en revisión, a la espera de aprobación para ser lanzado en el entorno de producción.
+
+
+## 🎯 Características de la aplicación 
+
+- 📥 Crear nueva UBF desde un formulario web
+- 🔍 Buscar UBF por filtros: área, centro, código, estado...
+- 📝 Editar CIAS o profesionales vinculados
+- 🗑️ Borrado lógico (estado "inactiva")
+- 👩‍⚕️​ Asignar cias con profesionales titulares y sustitutos
+- 🔐 Seguridad con tokens CSRF
+
+
+## 🧰 Tecnologías utilizadas
+
+| Lenguajes                                                                                      | Frameworks & Librerías                                                                                                     | Herramientas                                                                                                                    |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) <br> ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white) <br> ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?logo=oracle&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white) <br> ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C?logo=spring&logoColor=white) <br> ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=leaflet&logoColor=white) | ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) <br> ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) <br> ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?logo=sourcetree&logoColor=white) <br> ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white) <br> ![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white) |
