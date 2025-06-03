@@ -16,7 +16,7 @@
 - [🎯 Características de la aplicación](#-características-de-la-aplicación)
 - [🧰 Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [🤝 Personas contribuyentes](#-personas-contribuyentes)
-- [👩‍💻 Personas desarrolladoras del proyecto](#-personas-desarrolladores-del-proyecto)
+- [👩‍💻 Personas desarrolladoras del proyecto](#-personas-desarrolladoras-del-proyecto)
 - [📄 Licencia](#licencia)
 - [🧩 Conclusión](#conclusión)
 
@@ -100,7 +100,7 @@ Aplicación web desarrollada en **Java con Spring Boot**, conectada a **Oracle S
 - 💬 Interlocutor entre profesionales sanitarios y los programadores, conocido como cliente
 
 
-## 👩‍💻 Personas Desarrolladoras del Proyecto
+## 👩‍💻 Personas desarrolladoras del Proyecto
 
 **María Gallego Domínguez**
 
