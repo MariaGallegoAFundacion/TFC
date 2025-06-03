@@ -15,7 +15,7 @@
 - [📌 Estado del proyecto](#-estado-del-proyecto)
 - [🎯 Características de la aplicación](#-características-de-la-aplicación)
 - [🧰 Tecnologías utilizadas](#-tecnologías-utilizadas)
-- [🤝 Personas contribuyentes](#personas-contribuyentes)
+- [🤝 Personas contribuyentes](#-personas-contribuyentes)
 - [👩‍💻 Personas-desarrolladores del proyecto](#personas-desarrolladores-del-proyecto)
 - [📄 Licencia](#licencia)
 - [🧩 Conclusión](#conclusión)
@@ -58,6 +58,43 @@ Aplicación web desarrollada en **Java con Spring Boot**, conectada a **Oracle S
 
 ## 🧰 Tecnologías utilizadas
 
-| Lenguajes                                                                                      | Frameworks & Librerías                                                                                                     | Herramientas                                                                                                                    |
-|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) <br> ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white) <br> ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?logo=oracle&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white) <br> ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C?logo=spring&logoColor=white) <br> ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=leaflet&logoColor=white) | ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) <br> ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) <br> ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?logo=sourcetree&logoColor=white) <br> ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white) <br> ![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white) |
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Lenguajes</th>
+    <th>Frameworks & Librerías</th>
+    <th>Herramientas & Otros</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?logo=oracle&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?logo=spring&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=leaflet&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/SourceTree-0052CC?logo=sourcetree&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+## 🤝 Personas Contribuyentes
+
+- 🧑‍⚕️ Profesionales sanitarios del entorno SACYL
+- 👨‍💻 Equipo de programadores que realizan las pruebas funcionales
+- 💬 Interlocutor entre profesionales sanitarios y los programadores, conocido como cliente
