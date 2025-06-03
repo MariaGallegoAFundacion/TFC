@@ -16,7 +16,7 @@
 - [🎯 Características de la aplicación](#-características-de-la-aplicación)
 - [🧰 Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [🤝 Personas contribuyentes](#-personas-contribuyentes)
-- [👩‍💻 Personas-desarrolladores del proyecto](#personas-desarrolladores-del-proyecto)
+- [👩‍💻 Personas desarrolladoras del proyecto](#-personas-desarrolladores-del-proyecto)
 - [📄 Licencia](#licencia)
 - [🧩 Conclusión](#conclusión)
 
@@ -98,3 +98,12 @@ Aplicación web desarrollada en **Java con Spring Boot**, conectada a **Oracle S
 - 🧑‍⚕️ Profesionales sanitarios del entorno SACYL
 - 👨‍💻 Equipo de programadores que realizan las pruebas funcionales
 - 💬 Interlocutor entre profesionales sanitarios y los programadores, conocido como cliente
+
+
+## 👩‍💻 Personas Desarrolladoras del Proyecto
+
+**María Gallego Domínguez**
+
+  <img src="https://github.com/user-attachments/assets/f4861fff-0c5e-49d8-ab77-693bfe6c7c3f" alt="imagenreadme2" width="80"/>
+
+📘 Proyecto Final – 2º DAW
