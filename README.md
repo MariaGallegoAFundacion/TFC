@@ -17,8 +17,8 @@
 - [🧰 Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [🤝 Personas contribuyentes](#-personas-contribuyentes)
 - [👩‍💻 Personas desarrolladoras del proyecto](#-personas-desarrolladoras-del-proyecto)
-- [📄 Licencia](#licencia)
-- [🧩 Conclusión](#conclusión)
+- [📄 Licencia](#-licencia)
+- [🧩 Conclusión](#-conclusión)
 
 
 
@@ -107,3 +107,19 @@ Aplicación web desarrollada en **Java con Spring Boot**, conectada a **Oracle S
   <img src="https://github.com/user-attachments/assets/f4861fff-0c5e-49d8-ab77-693bfe6c7c3f" alt="imagenreadme2" width="80"/>
 
 📘 Proyecto Final – 2º DAW
+
+
+## 📄 Licencia
+
+Este proyecto ha sido desarrollado para el entorno de SACYL (Sanidad de Castilla y León) por parte de Balidea Consulting & Programming S.L.
+Presenta 🔒 **distribución restringida** 🔒, razón principal por la que no puedo subir el código al repositorio, ya que  el uso, modificación o distribución de este software está limitado a los entornos autorizados por SACYL, y no se permite su uso fuera del ámbito para el que fue expresamente desarrollado sin autorización previa.
+
+## 🧩 Conclusión
+
+Este proyecto me ha permitido aplicar y reforzar conocimientos adquiridos durante mis estudios en DAW, utilizando tecnologías como **Java**, **JavaScript**, **SQL** y **servicios web**, e incorporando otras nuevas como **Spring Boot** o **Thymeleaf**.
+
+Además del desarrollo técnico, gracias a mi formación previa en el ámbito sanitario, ha sido muy interesante poder formar parte de un proyecto de sanidad.. Esto me ha permitido comprender mejor las necesidades de los usuarios finales y contribuir a una solución más útil y realista para el entorno SACYL.
+
+En resumen, ha sido una experiencia muy completa a nivel técnico y profesional, donde he podido integrar mis dos perfiles (sanitario y tecnológico) en el desarrollo de la aplicación.
+
+
